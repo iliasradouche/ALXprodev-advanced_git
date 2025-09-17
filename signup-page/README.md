@@ -1,5 +1,1 @@
-Signup Feature
-
-Coming soon
-
-Data requirements: email, firstName, lastName, profilePic
+eature coming soon data requirements: email, firstName, lastName, profilePic
